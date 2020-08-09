@@ -1,0 +1,13 @@
+{
+  "name": "klehmann-testing",
+  "version": "1.0.0",
+  "description": "Small TestClass for simple testing",
+  "main": "UnitTest.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["unittest", "testing"],
+  "author": "Kai Lehmann <kaijenslehmann@googlemail.com>",
+  "license": "ISC",
+  "type": "module"
+}
